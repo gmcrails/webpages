@@ -1,9 +1,9 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+      -Name: Gabe Crail-Steinbaker
+      -UnityID: gmcrails
+      -Date: 02/25/21
+      -Assignment: Webpages GL
+      -Description: Guided lab assignment, about me webpage
  */
  
 p {
@@ -16,6 +16,7 @@ p {
     border: 1px solid #FFFFFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+	max-height: 300 px;
 }
